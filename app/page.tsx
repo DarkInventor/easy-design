@@ -221,7 +221,7 @@ const LandingPage = () => {
             <div>
               <p className="mt-8 text-3xl font-semibold tracking-tighter md:text-7xl text-slate-800">
                 Easy UI - <span className="text-[#000ff]">100% free</span>{" "}
-                collection of premium next.js website templates
+                collection of premium website templates
               </p>
             </div>
             <div className="pt-24 pb-5 border-b border-gray-200 sm:flex sm:items-center sm:justify-between">
